@@ -14,7 +14,7 @@ body{
     font-size: 1.05rem;
     line-height: 1.6;
     font-family: 'Poppins', sans-serif;
-    background-image: url('');
+    background-image: url('https://img.freepik.com/free-photo/olive-oil-bread-tomato-set_23-2147853930.jpg?w=1480&t=st=1724651123~exp=1724651723~hmac=bf145dfe6f55f5a2657a98cb9d1868c763777912c1e76f41b71f4c88e86c29d9');
 }
 
 /*  */
@@ -40,7 +40,7 @@ body{
     max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
-    background: #fff;
+    /* background: #fff; */
     text-align: center;
 }
 .meal-search{
